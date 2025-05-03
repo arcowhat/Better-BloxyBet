@@ -8,12 +8,13 @@
 * ✅ Displays accuracy percentage next to trade suggestions.
 * 📊 Uses historical data and predictive models to calculate confidence.
 * 🔄 Auto-refresh support for live updates.
-* 🔔 Optional alerts when a high-confidence trade is detected.
-* 🌙 Dark mode compatibility for popular trading platforms.
 
 Perfect for traders who want an edge backed by data!
 
+
 ---
+
+
 
 ### 🛠️ How to Load as an Unpacked Extension in Chrome
 
@@ -39,4 +40,8 @@ Make sure your extension files (like `manifest.json`, `popup.html`, `background.
 
 ✅ Chrome will now load your extension! You should see the icon appear in your toolbar.
 
+
+
 ---
+
+![image](https://github.com/user-attachments/assets/86427bb5-b736-4ba4-acf7-d8d4860bcaa8)
